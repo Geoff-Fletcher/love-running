@@ -239,6 +239,14 @@ hr {
         align-self: flex-end;
     }
 
+    /* Meetup times Section */
+
+    #times {
+        background: url('../images/dublin-city.webp') no-repeat center/cover;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
 }
 /* Large devices (laptops and desktops 992px and up) */
 
